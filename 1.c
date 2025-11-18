@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-	printf( "Rahbar" ); 
+	printf( "Danish Sajad" ); 
 	return 0;
 }
 
